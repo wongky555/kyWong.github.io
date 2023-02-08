@@ -78,7 +78,9 @@ input, select, textarea {
 		width: device-width;
 	}
 
-	
+	body {
+		-ms-overflow-style: scrollbar;
+	}
 
 	@media screen and (max-width: 480px) {
 
